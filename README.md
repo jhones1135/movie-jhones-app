@@ -28,6 +28,17 @@ Aplicación web desarrollada con **React.js** que muestra un listado de películ
 ---
 
 ## 📂 Estructura del proyecto
+Movie Jhone-app
+┣ public
+┃ ┗ captura.png
+┣ src
+┃ ┣ Pages
+┃ ┃ ┗ Home.jsx
+┃ ┣ App.jsx
+┃ ┗ main.jsx
+┣ package.json
+┗ README.md
+
 
 ---
 
@@ -35,10 +46,18 @@ Aplicación web desarrollada con **React.js** que muestra un listado de películ
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/tu-repo.git
-   npm install
-npm run dev
-http://localhost:5173/
+Instalar dependencias:
 
+
+npm install
+Ejecutar en modo desarrollo:
+
+
+npm run dev
+Abrir en el navegador:
+
+
+http://localhost:5173/
 ✍️ Autor: Jhon Rodríguez
 📅 Trabajo final - Implementando Javascript
 
