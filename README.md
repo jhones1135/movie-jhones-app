@@ -29,7 +29,10 @@ La aplicación incluye navegación entre páginas, componentes reutilizables y d
 ## 📸 Capturas de pantalla
 
 ### 🎬 Vista principal - Películas populares
-![Captura de la aplicación](/public/captura.png)
+## 📸 Captura de la aplicación
+
+![Vista previa](public/captura.png)
+
 
 
 
