@@ -44,9 +44,5 @@ http://localhost:5173/
 
 ---
 
-👉 Ahora lo único que tienes que hacer es:  
-1. Guardar ese contenido en `README.md`.  
-2. Subir también tu imagen `captura.png` a la carpeta `public/`.  
 
-¿Quieres que te guíe paso a paso para subir tanto la imagen como el `README.md` actualizado a GitHub?
 
