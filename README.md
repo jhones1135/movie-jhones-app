@@ -15,7 +15,8 @@ Aplicación web desarrollada con **React.js** que muestra un listado de películ
 
 ## 📸 Captura de la aplicación
 
-![Vista previa](public/captura.png)
+![Captura de la aplicación](./public/captura.png)
+
 
 ---
 
