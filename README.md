@@ -34,7 +34,6 @@ La aplicación incluye navegación entre páginas, componentes reutilizables y d
 
 
 
-
 ## ⚙️ Instalación y uso
 
 1. Clonar el repositorio  
