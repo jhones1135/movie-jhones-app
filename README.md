@@ -1,47 +1,37 @@
-# 🎥 Aplicación de Películas - Jhones
+# 🎬 Movie Jhone App
 
-Aplicación web sencilla desarrollada con **React.js + Vite** que muestra información de películas populares.  
-La aplicación incluye navegación entre páginas, componentes reutilizables y diseño responsivo.  
+Aplicación web desarrollada con **React.js** que muestra un listado de películas populares obtenidas desde la API de [The Movie Database (TMDB)](https://www.themoviedb.org/).
 
 ---
 
 ## 🚀 Características
-- ✅ Interfaz de usuario interactiva y responsiva.  
-- ✅ Uso de componentes funcionales en **React**.  
-- ✅ Estilos aplicados con **CSS**.  
-- ✅ Código bien estructurado y organizado.  
-- ✅ Navegación básica entre páginas.  
+- Interfaz interactiva y responsiva.
+- Uso de componentes funcionales en **React**.
+- Consumo de API pública con **fetch**.
+- Estilos aplicados con **CSS** inline.
+- Proyecto estructurado con buenas prácticas.
 
 ---
 
-## 📂 Estructura del Proyecto
-
----
-
-## 🛠️ Tecnologías usadas
-- [React.js](https://react.dev/)  
-- [Vite](https://vitejs.dev/)  
-- [CSS3](https://developer.mozilla.org/es/docs/Web/CSS)  
-- [JavaScript ES6+](https://developer.mozilla.org/es/docs/Web/JavaScript)
-
----
-
-## 📸 Capturas de pantalla
-
-### 🎬 Vista principal - Películas populares
 ## 📸 Captura de la aplicación
 
 ![Vista previa](public/captura.png)
 
+---
 
+## ⚙️ Tecnologías usadas
+- React.js (Vite)
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
+---
 
+## 📂 Estructura del proyecto
 
+---
 
-
-
-## ⚙️ Instalación y uso
-
-1. Clonar el repositorio  
+## 📦 Instalación y uso
+1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/jhones1135/aplicacion-de-peliculas-jhones.git
+   git clone https://github.com/tu-usuario/tu-repo.git
