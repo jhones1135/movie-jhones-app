@@ -47,18 +47,11 @@ Movie Jhone-app
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/tu-repo.git
-Instalar dependencias:
 
 
-npm install
-Ejecutar en modo desarrollo:
-
-
-npm run dev
 Abrir en el navegador:
-
-
 http://localhost:5173/
+
 ✍️ Autor: Jhon Rodríguez
 📅 Trabajo final - Implementando Javascript
 
