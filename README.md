@@ -1,16 +1,42 @@
-# React + Vite
+# 🎥 Aplicación de Películas - Jhones
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web sencilla desarrollada con **React.js + Vite** que muestra información de películas populares.  
+La aplicación incluye navegación entre páginas, componentes reutilizables y diseño responsivo.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Características
+- ✅ Interfaz de usuario interactiva y responsiva.  
+- ✅ Uso de componentes funcionales en **React**.  
+- ✅ Estilos aplicados con **CSS**.  
+- ✅ Código bien estructurado y organizado.  
+- ✅ Navegación básica entre páginas.  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 Estructura del Proyecto
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologías usadas
+- [React.js](https://react.dev/)  
+- [Vite](https://vitejs.dev/)  
+- [CSS3](https://developer.mozilla.org/es/docs/Web/CSS)  
+- [JavaScript ES6+](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+---
+
+## 📸 Capturas de pantalla
+
+### 🎬 Vista principal - Películas populares
+![Captura de la aplicación](https://ruta-a-tu-imagen-o-screenshot.png)
+
+*(Aquí puedes subir tu captura de pantalla al repositorio en la carpeta `public/` y usar la ruta, por ejemplo: `/public/screenshot.png`)*
+
+---
+
+## ⚙️ Instalación y uso
+
+1. Clonar el repositorio  
+   ```bash
+   git clone https://github.com/jhones1135/aplicacion-de-peliculas-jhones.git
