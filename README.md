@@ -31,9 +31,9 @@ La aplicación incluye navegación entre páginas, componentes reutilizables y d
 ### 🎬 Vista principal - Películas populares
 ![Captura de la aplicación](https://ruta-a-tu-imagen-o-screenshot.png)
 
-*(Aquí puedes subir tu captura de pantalla al repositorio en la carpeta `public/` y usar la ruta, por ejemplo: `/public/screenshot.png`)*
 
----
+
+
 
 ## ⚙️ Instalación y uso
 
